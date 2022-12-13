@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; configuration.title = "Get directions"; ObjectID = "4KV-4g-qTb"; */
+"4KV-4g-qTb.configuration.title" = "Get directions";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4KV-4g-qTb"; */
+"4KV-4g-qTb.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "User Inputs"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "User Inputs";
+
+/* Class = "UIButton"; configuration.title = "End route"; ObjectID = "KMt-nF-iLf"; */
+"KMt-nF-iLf.configuration.title" = "End route";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KMt-nF-iLf"; */
+"KMt-nF-iLf.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Map View"; ObjectID = "Leo-56-Rdn"; */
+"Leo-56-Rdn.title" = "Map View";
+
+/* Class = "UIButton"; configuration.title = "Back"; ObjectID = "TEQ-69-0aj"; */
+"TEQ-69-0aj.configuration.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TEQ-69-0aj"; */
+"TEQ-69-0aj.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Enter starting point"; ObjectID = "byE-QF-LLe"; */
+"byE-QF-LLe.text" = "Enter starting point";
+
+/* Class = "UITextField"; text = "Enter destination"; ObjectID = "hMM-z7-4rs"; */
+"hMM-z7-4rs.text" = "Enter destination";
+
+/* Class = "UILabel"; text = "CarlRoute"; ObjectID = "teD-Kq-ZC6"; */
+"teD-Kq-ZC6.text" = "CarlRoute";
